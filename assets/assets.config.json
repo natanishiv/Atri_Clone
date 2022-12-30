@@ -1,0 +1,53 @@
+{
+  "img1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "trust1.png": {
+    "mime": "image/png"
+  },
+  "trust2.png": {
+    "mime": "image/png"
+  },
+  "trust3.png": {
+    "mime": "image/png"
+  },
+  "trust4.png": {
+    "mime": "image/png"
+  },
+  "service1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "service2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "service3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "project1.png": {
+    "mime": "image/png"
+  },
+  "project2.png": {
+    "mime": "image/png"
+  },
+  "project3.png": {
+    "mime": "image/png"
+  },
+  "pd1.png": {
+    "mime": "image/png"
+  },
+  "pd2.png": {
+    "mime": "image/png"
+  },
+  "pd3.png": {
+    "mime": "image/png"
+  },
+  "pd4.png": {
+    "mime": "image/png"
+  },
+  "testimonial.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "testimonial1.svg": {
+    "mime": "image/svg+xml"
+  }
+}
